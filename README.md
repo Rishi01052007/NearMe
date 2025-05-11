@@ -30,7 +30,7 @@ Name : RISHI R
 Register Number : 212224040277
 
  map.html
-```
+
 <html>
     <head>
         <title>MyCity</title>
@@ -63,9 +63,9 @@ Register Number : 212224040277
         </font>
     </body>
 </html> 
-```
+
  Vellore Fort.html
-```
+
 <html>
     <body>
         <center>    
@@ -78,9 +78,9 @@ Register Number : 212224040277
         </font>
     </body>
 </html>
-```
+
 CMC.html
-```
+
 <html>
     <body>
         <center>
@@ -94,7 +94,7 @@ CMC.html
     </body>
 </html>
 VIT.html
-```
+
 <html>
     <body>
         <center>
@@ -107,9 +107,9 @@ VIT.html
         </font>
     </body>
 </html>
-```
+
 GOLDEN TEMPLE.html 
-```
+
 <html>
     <body>
         <center>
